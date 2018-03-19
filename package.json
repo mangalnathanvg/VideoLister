@@ -1,0 +1,38 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.5",
+    "browser-sync": "^2.23.6",
+    "browserify": "^16.1.0",
+    "create-react-class": "^15.6.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-live-server": "0.0.31",
+    "gulp-open": "^1.0.0",
+    "html": "^1.0.0",
+    "jquery": "^3.3.1",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.7",
+    "qs": "^6.5.1",
+    "query-string": "^5.1.0",
+    "react": "^0.13.3",
+    "react-dom": "^16.2.0",
+    "react-router": "^0.13.6",
+    "reactify": "^1.1.1",
+    "superagent": "^3.8.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
